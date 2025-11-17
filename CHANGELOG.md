@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`6d38098`](https://github.com/stdlib-js/stdlib/commit/6d380980eadd8ecd4b773abeb11d4c6422f98753) - **docs:** use double quotes _(by Athan Reines)_
 -   [`3936ac7`](https://github.com/stdlib-js/stdlib/commit/3936ac7831947ba379cb6120f89a2d477924779e) - **feat:** add `blas/ext/linspace` _(by Athan Reines)_
 
 </details>
